@@ -14,6 +14,7 @@ The neural transfer model used in this work is available at [link to github].
 
 ## Art used for style layers:
 Original art by Brinnae Bent:
+<img src="https://user-images.githubusercontent.com/43549914/105905181-2146a600-5ff0-11eb-948c-fecf91485212.JPG" alt="brinnae bent art" width="100"/>
 
 
 ## Photos used for content layers:
