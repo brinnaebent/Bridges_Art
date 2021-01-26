@@ -1,7 +1,7 @@
 # Bridges_Art
 Art of a Scientist Exhibit, Duke University, 2021
 
-![Final Piece](https://user-images.githubusercontent.com/43549914/105904010-9add9480-5fee-11eb-9d9d-c750dfcb6888.jpg =250x)
+<img src="https://user-images.githubusercontent.com/43549914/105904010-9add9480-5fee-11eb-9d9d-c750dfcb6888.jpg" alt="final piece" width="700"/>
 
 ## Artist’s Statement
 
