@@ -10,10 +10,10 @@ bridging the gap between our own human intelligence and artificial intelligence.
 portray the beauty and complexity of artificial intelligence and convince the viewer of the emotion that can be induced by this technology. 
 The neural transfer model used in this work is available at [link to github].
 
-Art used for style layers:
+## Art used for style layers:
 Original art by Brinnae Bent
 
-Photos used for content layers:
+## Photos used for content layers:
 
 <span>Photo by <a href="https://unsplash.com/@kylertrautner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">kyler trautner</a> on <a href="https://unsplash.com/s/photos/bridge?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
